@@ -42,3 +42,5 @@ https://nextjs.org/learn/basics/dynamic-routes/implement-getstaticprops
 
 
 https://nextjs.org/learn/basics/dynamic-routes/render-markdown
+
+https://nextjs.org/learn/basics/dynamic-routes/polishing-index-page
