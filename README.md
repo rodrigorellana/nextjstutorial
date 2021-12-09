@@ -37,6 +37,8 @@ ________________________________________________________________
 
 https://nextjs.org/learn/basics/data-fetching/blog-data
 
-________________________________________________________________
 
 https://nextjs.org/learn/basics/dynamic-routes/implement-getstaticprops
+
+
+https://nextjs.org/learn/basics/dynamic-routes/render-markdown
