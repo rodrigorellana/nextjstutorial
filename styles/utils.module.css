@@ -23,7 +23,7 @@
 .headingMd {
   font-size: 1.2rem;
   line-height: 1.5;
-  background-color:lightblue;
+  background-color:blue;
 }
 
 .borderCircle {
@@ -50,5 +50,5 @@
 
 .lightText {
   color: #666;
-  background-color: azure;
+  background-color: orange;
 }
