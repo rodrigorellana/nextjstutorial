@@ -68,3 +68,7 @@ https://app.contentful.com/spaces/1prviluf4wt3/content_types/ataraxiaForm/fields
 
 contentful create account, create content model, go to settings - api keys
 
+done:
+https://egghead.io/lessons/cloudflare-deploy-a-next-js-and-contentful-project-to-cloudflare-pages
+
+linked cloudflare pages with github nextjstutorial created and env variables setted from contentful into cloudflare pages configuration
