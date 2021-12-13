@@ -44,3 +44,20 @@ https://nextjs.org/learn/basics/dynamic-routes/implement-getstaticprops
 https://nextjs.org/learn/basics/dynamic-routes/render-markdown
 
 https://nextjs.org/learn/basics/dynamic-routes/polishing-index-page
+
+
+DEBUG: 
+https://platzi.com/clases/1991-next/30611-creando-y-consumiendo-nuestra-propia-api/
+dev : node-options=--'inspect' next
+chrome://inspect
+devtools
+
+
+restart typescript when modifinc tsconfigjson
+https://platzi.com/clases/1991-next/30614-path-alias/
+
+
+
+isomorphic-unfetch
+para reemplazar el fetch para que funke en otros y todos los navegadores
+https://platzi.com/clases/1991-next/30616-finalizando-las-paginas/
