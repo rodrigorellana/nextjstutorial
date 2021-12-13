@@ -72,3 +72,16 @@ done:
 https://egghead.io/lessons/cloudflare-deploy-a-next-js-and-contentful-project-to-cloudflare-pages
 
 linked cloudflare pages with github nextjstutorial created and env variables setted from contentful into cloudflare pages configuration
+
+solution for /images akami:
+https://stackoverflow.com/questions/65487914/no-exportpathmap-found-in-next-config-js-generating-map-from-pages
+https://github.com/vercel/next.js/issues/18356
+https://uploadcare.com/blog/next-js-image-optimization/
+https://nextjs.org/docs/basic-features/image-optimization
+https://nextjs.org/docs/api-reference/next/image#built-in-loaders
+
+https://community.cloudflare.com/t/next-js-app-showing-error-while-deploying-to-cloudflare-pages/280183/1
+
+________________________________________________
+
+
