@@ -61,3 +61,10 @@ https://platzi.com/clases/1991-next/30614-path-alias/
 isomorphic-unfetch
 para reemplazar el fetch para que funke en otros y todos los navegadores
 https://platzi.com/clases/1991-next/30616-finalizando-las-paginas/
+
+
+start contentful-airtable-nestjs tutorial
+https://app.contentful.com/spaces/1prviluf4wt3/content_types/ataraxiaForm/fields
+
+contentful create account, create content model, go to settings - api keys
+
