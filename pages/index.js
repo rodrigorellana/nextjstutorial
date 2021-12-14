@@ -4,6 +4,7 @@ import utilStyles from "../styles/utils.module.css";
 import Link from "next/link";
 import Date from "../components/date";
 import {getSortedPostsData} from "../lib/posts";
+import Form from "../components/form";
 
 export async function getStaticProps() {
   const allPostsData = getSortedPostsData();
@@ -44,6 +45,8 @@ export default function Home({allPostsData}) {
           ))}
         </ul>
       </section>
+
+      <Form/>
     </Layout>
   );
 }
