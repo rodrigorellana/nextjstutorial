@@ -85,3 +85,27 @@ https://community.cloudflare.com/t/next-js-app-showing-error-while-deploying-to-
 ________________________________________________
 
 
+add deploy hook (no funciono como el video pero si tiene interaccion con el hook de deploy)
+https://egghead.io/lessons/cloudflare-set-up-a-deploy-webhook-in-cloudflare-pages
+
+
+airtable
+https://egghead.io/lessons/cloudflare-create-environment-variables-with-cloudflare-wrangler
+
+wrangler generate airtable-function
+cd airtable-function  
+wrangler whoami
+
+wrangler dev
+
+edit tomls add the account id
+
+
+env values
+https://egghead.io/lessons/cloudflare-create-environment-variables-with-cloudflare-wrangler
+
+generate api key 
+https://airtable.com/account
+
+then create:
+wrangler secret put AIRTABLE_API_KEY 
