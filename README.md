@@ -109,3 +109,7 @@ https://airtable.com/account
 
 then create:
 wrangler secret put AIRTABLE_API_KEY 
+
+
+make post to airtable api
+https://egghead.io/lessons/cloudflare-make-a-post-request-to-the-airtable-api-with-a-handler-function
