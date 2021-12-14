@@ -1,7 +1,7 @@
 import styles from '../styles/Home.module.css';
 
 const Airtable_function =
-	'https://airtable-function.obinnacodes.workers.dev/submit'; // PULGX change
+	'https://airtable-function.rorellana.workers.dev/submit';
 
 export default function Form() {
 	return (

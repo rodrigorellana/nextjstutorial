@@ -117,3 +117,9 @@ https://egghead.io/lessons/cloudflare-make-a-post-request-to-the-airtable-api-wi
 form submission:
 https://egghead.io/lessons/cloudflare-create-an-airtable-form-submission-function
 
+wrangler publish
+https://egghead.io/lessons/cloudflare-publish-a-cloudflare-worker-and-submit-data-with-an-html-form
+✨  Successfully published your script to
+ https://airtable-function.rorellana.workers.dev
+
+ 
