@@ -122,4 +122,7 @@ https://egghead.io/lessons/cloudflare-publish-a-cloudflare-worker-and-submit-dat
 ✨  Successfully published your script to
  https://airtable-function.rorellana.workers.dev
 
+ --- update to test git fix about airtable function ---
+
+
  
